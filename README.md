@@ -7,7 +7,7 @@ Site d'une map SVG interactif qui permet la visualisation du temple Zixiao lorsq
 - Yohan Som
 
 ## Lien vers le projet hébergé
-- [Lien vers le site](https://yoh4nyo.github.io/SAE_401_v2/)
+- [Lien vers le site](https://lambent-blini-7009a9.netlify.app/)
 
 ### Logiciels utilisés
 - **Blender** : Pour la création du temple
